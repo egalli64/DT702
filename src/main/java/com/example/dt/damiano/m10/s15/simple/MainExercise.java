@@ -16,7 +16,8 @@ public class MainExercise extends Exercise {
 		List<Integer> al = new ArrayList<Integer>();
 		List<Integer> hl = new ArrayList<Integer>();
 		Exercise e = new Exercise();
-
+		
+		System.out.println();
 		System.out.println("Valor pari (tramite Array):");
 
 		p = e.valoriPari(mix);

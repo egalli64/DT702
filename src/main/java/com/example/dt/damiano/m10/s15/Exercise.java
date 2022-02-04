@@ -9,7 +9,6 @@ public class Exercise {
 	 * Extract from input the even values and return them in an array
 	 * 
 	 * Do not use Collections in here!
-	 * 
 	 * @param data a bunch of integers
 	 * @return even values from input
 	 * 
