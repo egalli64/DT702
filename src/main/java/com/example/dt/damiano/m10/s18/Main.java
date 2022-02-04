@@ -1,7 +1,5 @@
 package com.example.dt.damiano.m10.s18;
 
-import com.example.dt.damiano.m10.s18.Exercise;
-
 public class Main extends Exercise {
 
 	public static void main(String[] args) {
@@ -15,8 +13,8 @@ public class Main extends Exercise {
 
 		p = e.singles(mix);
 
-		for (int pari : p) {
-			System.out.println(pari);
+		for (int noDupl : p) {
+			System.out.println(noDupl);
 		}
 
 	}
