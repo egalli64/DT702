@@ -8,7 +8,6 @@ public class Main extends Exercise {
 
 		Exercise e = new Exercise();
 		
-		System.out.println();
 		System.out.println("Valori senza duplicati(tramite HashSet):");
 
 		p = e.singles(mix);
