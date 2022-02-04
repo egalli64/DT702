@@ -1,4 +1,4 @@
-package com.exemple.dt.emanuele.hello;
+package com.example.dt.emanuele.hello;
 
 public class Hello {
     public static void main(String[] args) {
