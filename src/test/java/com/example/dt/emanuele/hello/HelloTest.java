@@ -1,4 +1,4 @@
-package com.exemple.dt.emanuele.hello;
+package com.example.dt.emanuele.hello;
 
 import static org.junit.jupiter.api.Assertions.*;
 
