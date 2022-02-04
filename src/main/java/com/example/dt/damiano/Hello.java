@@ -7,6 +7,7 @@ public class Hello {
 		System.out.println("Hello!");
 		System.out.println("Firts commit by Damiano.");
 		System.out.println("test");
+		System.out.println("test");
 	}
 
 }
