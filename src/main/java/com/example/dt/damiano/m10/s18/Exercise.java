@@ -12,8 +12,10 @@ public class Exercise {
 	 * 
 	 * Note: Result is not expected in any specific order
 	 * </pre>
+	 * 
 	 * @param data an array with duplicates
 	 * @return the original array (but wrapped values) stripped of duplicates
+	 * 
 	 */
 	@SuppressWarnings("null")
 	public Integer[] singles(int[] data) {
