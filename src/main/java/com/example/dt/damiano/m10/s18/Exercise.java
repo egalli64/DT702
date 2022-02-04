@@ -17,8 +17,6 @@ public class Exercise {
 	 * @return the original array (but wrapped values) stripped of duplicates
 	 * 
 	 * 
-	 * 
-	 * 
 	 */
 	@SuppressWarnings("null")
 	public Integer[] singles(int[] data) {

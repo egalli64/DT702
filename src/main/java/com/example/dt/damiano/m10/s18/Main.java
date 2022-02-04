@@ -1,5 +1,5 @@
 package com.example.dt.damiano.m10.s18;
-////
+//
 public class Main extends Exercise {
 
 	public static void main(String[] args) {
